@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Exer1
 {
-    class Courses: Teachers
+    public class Courses
     {
 
         void CountOfClasses(int count)
@@ -18,6 +18,8 @@ namespace Exer1
         {
 
         }
-        public string courseName { get; set; }
+        public string CourseName { get; set; }
+
+        public int Exercises { get; set; }
     }
 }

@@ -1,1 +1,6 @@
 C:\Users\HP\Documents\Visual Studio 2015\Projects\Lesson12\Exer3\bin\Debug\Exer3.exe.config
+C:\Users\HP\documents\visual studio 2015\Projects\Lesson12\Exer3\bin\Debug\Exer3.exe
+C:\Users\HP\documents\visual studio 2015\Projects\Lesson12\Exer3\bin\Debug\Exer3.pdb
+C:\Users\HP\documents\visual studio 2015\Projects\Lesson12\Exer3\obj\Debug\Exer3.csprojResolveAssemblyReference.cache
+C:\Users\HP\documents\visual studio 2015\Projects\Lesson12\Exer3\obj\Debug\Exer3.exe
+C:\Users\HP\documents\visual studio 2015\Projects\Lesson12\Exer3\obj\Debug\Exer3.pdb

@@ -8,6 +8,6 @@ namespace Exer1
 {
     class School
     {
-        public int classes { get; set; }
+        public List<Classes> Classes { get; set; }
     }
 }

@@ -6,7 +6,8 @@ using System.Threading.Tasks;
 
 namespace Exer1
 {
-    class People
+    public class People
     {
+        public string Name { get; set; }
     }
 }

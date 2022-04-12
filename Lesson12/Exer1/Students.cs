@@ -8,8 +8,8 @@ namespace Exer1
 {
     class Students: People
     {
-        public string name { get; set; }
+        
 
-        public int uniqueNumber { get; set; }
+        public int UniqueNumber { get; set; }
     }
 }

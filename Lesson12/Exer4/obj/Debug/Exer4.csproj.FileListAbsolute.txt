@@ -1,0 +1,6 @@
+C:\Users\HP\documents\visual studio 2015\Projects\Lesson12\Exer4\bin\Debug\Exer4.exe.config
+C:\Users\HP\documents\visual studio 2015\Projects\Lesson12\Exer4\bin\Debug\Exer4.exe
+C:\Users\HP\documents\visual studio 2015\Projects\Lesson12\Exer4\bin\Debug\Exer4.pdb
+C:\Users\HP\documents\visual studio 2015\Projects\Lesson12\Exer4\obj\Debug\Exer4.csprojResolveAssemblyReference.cache
+C:\Users\HP\documents\visual studio 2015\Projects\Lesson12\Exer4\obj\Debug\Exer4.exe
+C:\Users\HP\documents\visual studio 2015\Projects\Lesson12\Exer4\obj\Debug\Exer4.pdb

@@ -6,10 +6,12 @@ using System.Threading.Tasks;
 
 namespace Exer1
 {
-    class Classes: School
+    class Classes
     {
 
-        public string uniqueTextID { get; set; }
-        public List<string> teachers { get; set; }
+        public string UniqueTextID { get; set; }
+        public List<Teachers> Teacher { get; set; }
+
+        public List<Students> Student { get; set; }
     }
 }
